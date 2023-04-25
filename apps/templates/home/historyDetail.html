@@ -1,0 +1,48 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Chat history {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+{% block content %}
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center py-4">
+        
+    </div>
+    <div class="row">
+        <div class="col-12 col-xl-8">
+            <div class="card card-body border-0 shadow mb-4">
+                <h2 class="h5 mb-4">Chat History</h2>
+                <div class="col-md-6 mb-3">
+                    <label for="event_time">Date</label>
+                    <div class="input-group">
+                        <span class="input-group-text">
+                            <svg class="icon icon-xs" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
+                        </span>
+                        <input data-datepicker="" class="form-control" id="event_time" type="text" placeholder="dd/mm/yyyy" required>                                               
+                      </div>
+                    </div>
+                  </div>
+                <div class="row">
+                    <div class="col-12 bm-4">
+                        <div class="card border-0 shadow">
+                            <div class="card-body chat-history">
+                                {% for i in range(numOfChat) %}
+                                <div class="chat-container">
+                                    <p>{{ user_name }}: {{ cus_req[i] }} <span class="time-right">11:00</span> </p>
+                                </div>
+                                <div class="chat-container darker">
+                                    <p>CBD_Voicebot: {{ bot_req[i] }} <span class="time-left">11:01</span></p>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}

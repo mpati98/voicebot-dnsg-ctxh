@@ -1,0 +1,312 @@
+{
+    "chat_history": [
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!",
+            "tag": "unknown_response",
+            "temp_tag": "unknown_response",
+            "temp_resp": [
+                "W-L-I-N has been expanded in many countries, W-L-I-N has developed a network in Vietnam, Malaysia, Cambodia, Thailand, Philippines, Russia, USA, France, Hong Kong, Macau, China.",
+                "W-L-I-N is the organizer to vote for TOP 50 Women Leaders in Asia - Pacific and TOP 100 Women in Global Business Leaders held annually in Vietnam and other countries around the world.",
+                "W-L-I-N has built Website, Facebook, W-L-I-N Mobile App Version and W-L Magazine to be the mouthpiece of the worldwide network. Currently in the process of completing the W-L-I-N Mobile App Version to connect and increase the Benefits for Members.",
+                "Members of W-L-I-N are people holding positions from executive management to leadership level and business owners."
+            ]
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": null,
+            "resp": "I do not understand!"
+        },
+        {
+            "req": null,
+            "resp": "I do not understand!"
+        },
+        {
+            "req": null,
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin  chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "Xin chào",
+            "resp": "I do not understand!"
+        },
+        {
+            "req": "chúc về câu lạc bộ Doanh nhân Sài Gòn",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Xin chào Hãy giới thiệu cho tôi về câu lạc bộ doanh nhân Sài Gòn",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Hãy giới thiệu cho tôi về câu lạc bộ Doanh nhân Sài Gòn",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "jagsd",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tee box là gì?",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "vậy vợ tổ chức ở đâu",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "giải tổ chức ở đâu",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "truy bắt là gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "có lưu ý gì không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Có cần đóng phí tham gia không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "để tham gia giải đấu cần lưu ý điều gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "phí tham gia là bao nhiêu",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "cách thức tham gia như thế nào",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có tổ chức sự kiện gì không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có tổ chức hoạt động gì không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Có cần đóng phí tham gia không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động có thu phí không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động có thu phí không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động có thu phí không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động có tính phí không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có hoạt động gì không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Tôi muốn tạo sự kiện",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Xin chào Hãy giới thiệu về Gold",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Xin chào Sắp tới có buổi trưa con nào không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tuần này có buổi chơi Golf nào không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Hôm nay câu lạc bộ có tổ chức chơi golf không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "buổi chơi game này có gì đặc biệt không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có hoạt động nào không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có tổ chức hoạt động nào không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tới câu lạc bộ có tổ chức hoạt động nào mới không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tới câu lạc bộ có tổ chức hoạt động nào mới không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có tổ chức hoạt động nào mới không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có tổ chức hoạt động nào mới không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "sắp tới câu lạc bộ có hoạt động nào mới không",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Google là gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Hãy cho tôi biết một chút về Gold",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Khi nào vợ ở đâu giải được tổ chức",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "giải được tổ chức khi nào và ở đâu",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "bạn công tác xã hội có những hoạt động gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Ban công tác xã hội có những hoạt động gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Hãy giới thiệu một vài hoạt động",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Ban công tác xã hội có những hoạt động gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "những hoạt động nổi bật của câu lạc bộ",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "câu lạc bộ tổ chức những hoạt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "câu lạc bộ tổ chức những hoạt động",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động xã hội của câu lạc bộ gồm những gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động xã hội của câu lạc bộ gồm những gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động xã hội của câu lạc bộ gồm những gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "hoạt động xã hội của câu lạc bộ gồm những gì",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "mục tiêu của Ban công tác",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "tín hiệu không tốt",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        },
+        {
+            "req": "Tôi muốn biết về hoạt động của câu lạc bộ doanh nhân",
+            "resp": "Tôi không hiểu ý bạn lắm, phiền bạn giải thích rõ hơn nhé!"
+        }
+    ]
+}
